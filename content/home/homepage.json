@@ -2,18 +2,18 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+    "title": "How I can help",
+    "copy": "You really want to do this cool thing, but you have this problem. Integer at sagittis enim eget congue elit. Fusce nisi neque, posuere eu vehicula sed, bibendum sit amet sapien. Aenean placerat, ligula nec cursus semper, nulla ante vehicula lorem, ac interdum tellus erat in quam.",
+    "image": "../images/placeholder/1024x768.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "title": "More about me and stuff I do",
+    "copy": "Etiam luctus massa nec tristique pulvinar. Sed pharetra elementum orci, vitae pulvinar sapien dapibus non. Sed dignissim mattis magna eu volutpat. Cras tincidunt justo sed commodo dapibus. Pellentesque lobortis ipsum tincidunt imperdiet faucibus. Fusce rutrum ac leo in feugiat.",
+    "image": "../images/placeholder/1200x800.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "title": "How to get in touch and stuff",
+    "copy": "Proin augue neque, sagittis non lacus quis, posuere fermentum magna. Curabitur ac est porta est faucibus malesuada eget aliquam neque. Fusce eget ligula vestibulum, interdum erat efficitur, congue arcu.",
+    "image": "../images/placeholder/1280x720.jpg"
   }]
 }
